@@ -30,20 +30,7 @@ With a strong **Computer Science foundation** and a **Data Science Master’s (U
 
 ## **💼 Experience**
 
-### 🧬 AI / Machine Learning Engineer — Roche  
-**2025 – Present | Baltimore, MD**  
-- Improved biomedical **Precision@K by 210%** using multimodal embeddings.  
-- Reduced LLM inference latency **by 32–48%** with Triton, TensorRT & ONNX.
 
-### 💊 Machine Learning Engineer — Cipla  
-**2021 – 2023 | Hyderabad, India**  
-- Prevented **320+ inventory shortfalls** via ML forecasting.  
-- Avoided **$1.8M** in delays using real-time anomaly detection.
-
-### 🏦 Data Scientist — KPMG  
-**2019 – 2021 | Hyderabad, India**  
-- Boosted fraud detection **F1: 0.72 → 0.89**, reducing false positives significantly.  
-- Automated 1.5TB/day ETL pipeline, cutting processing time by **18 hours**.
 
 ---
 
