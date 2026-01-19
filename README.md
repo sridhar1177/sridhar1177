@@ -148,4 +148,4 @@ I build scalable, production-grade LLM systems with a focus on RAG pipelines, fi
 
 ## **🤝 Connect With Me**
 📧 **sridhark1177@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sridhark0555
+🔗 **LinkedIn:** 
