@@ -14,9 +14,7 @@
 ---
 
 ## **🧑‍💻 About Me**
-I’m an **AI/ML Engineer with 4+ years of experience** building impactful AI systems across Healthcare, Pharma, and Financial Services.
-
-With a strong **Computer Science foundation** and a **Data Science Master’s (UMBC)**, I specialize in:
+I’m an **AI/ML Engineer With a strong **Computer Science foundation** and a **Data Science Master’s (UMBC)**, I specialize in:
 
 - Building industrial-grade **LLM systems**  
 - Developing **RAG platforms** for enterprise search  
